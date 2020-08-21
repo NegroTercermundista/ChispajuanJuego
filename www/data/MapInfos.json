@@ -1,4 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Mapa 1","order":1,"parentId":0,"scrollX":1696,"scrollY":1592}
+{"id":1,"expanded":true,"name":"Mapa 1","order":1,"parentId":0,"scrollX":2050.6666666666665,"scrollY":1408},
+{"id":2,"expanded":true,"name":"Mansión (Interior)","order":2,"parentId":1,"scrollX":1136,"scrollY":1280},
+{"id":3,"expanded":false,"name":"Sala de laboratorio","order":3,"parentId":2,"scrollX":712,"scrollY":526.6666666666666}
 ]
